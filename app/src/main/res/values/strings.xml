@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RatioImageView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_scala">No Scala</string>
+    <string name="scala_vertical">Scala Vertical(Default)</string>
+    <string name="scala_horizontal">Scala Horizontal</string>
+</resources>
